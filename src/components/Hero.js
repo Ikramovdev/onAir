@@ -2,7 +2,7 @@ function Hero(){
     return(
         <section className="Hero">
             <div className="container relative">
-                <div className="flex flex-col w-[570px] absolute top-[328px]">
+                <div className="flex flex-col w-[570px] absolute top-[228px]">
                     <h1 className="font-Ubuntu font-light text-[96px] leading-[110px] text-white mb-5">Inception</h1>
                     <div className="flex items-center gap-[20px] mb-[22px]">
                         <span className="font-Ubuntu font-medium text-[24px] leading-[27px] text-[#A7A7A7] pr-[10px] border-r-[2px] border-[#A7A7A7]">Sci-Fi  Thriller  2010</span>
